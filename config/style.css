@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5980d;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: rgb(248, 110, 4);
+    padding: 20px;
+    border-radius: 10px;
+}
+.post {
+    border-bottom: 1px solid #ea6d0d;
+    padding: 10px 0;
+}
+.btn {
+    background: #28a745;
+    color: rgb(238, 123, 7);
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+
